@@ -1,3 +1,5 @@
+![](https://github.com/ryannninodizon/msal-angular17-with-listdata/blob/main/banner.png)
+
 # How to make this working?
 
 This template is based on the official MSAL JavaSscript template: [msal-angular](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/lib/msal-angular "msal-angular")
