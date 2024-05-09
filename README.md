@@ -7,15 +7,19 @@ This template is based on the official MSAL JavaSscript template: [msal-angular]
 - json-server --watch db.json
 
 ### Update environment values 
-You have to get the **ClientId** and **TenantId** from the App Registration page. Watch my youtube video how to registration your app to Entra ID
-    ````
-    msalConfig: {
+You have to get the **ClientId** and **TenantId** from the App Registration page and update this file: 
+> Angular17-Standalone/src/environments/environment.dev.tsAngular17-Standalone/src/environments/environment.dev.ts
+
+    
+   ```json
+ msalConfig: {
         auth: {
             clientId: <client-id>,
             authority: 'https://login.microsoftonline.com/<tenant-id>'
         }
     }
-    ````
+```
+    
 
 ### Install Angular dependencies and run
 - npm install
