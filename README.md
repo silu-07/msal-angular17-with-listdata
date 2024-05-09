@@ -1,10 +1,13 @@
-﻿# How to make this working?
+# How to make this working?
+
+This template is based on the official MSAL JavaSscript template: [msal-angular](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/lib/msal-angular "msal-angular")
 
 ###  Install json-server and run
 - npm install json-server
 - json-server --watch db.json
 
 ### Update environment values 
+You have to get the **ClientId** and **TenantId** from the App Registration page. Watch my youtube video how to registration your app to Entra ID
     ````
     msalConfig: {
         auth: {
