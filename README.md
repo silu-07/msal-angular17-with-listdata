@@ -1,10 +1,10 @@
-﻿# MSAL Angular17 with Listdata display
+﻿# How to make this working?
 
-# Install json-server and run
+###  Install json-server and run
 - npm install json-server
 - json-server --watch db.json
 
-# Update environment values 
+### Update environment values 
     ````
     msalConfig: {
         auth: {
@@ -14,9 +14,10 @@
     }
     ````
 
-# Install Angular dependencies and run
+### Install Angular dependencies and run
 - npm install
 - ng start
 
-You can Watch my youtube video if you like to see how I use this project: https://www.youtube.com/watch?v=D9fWa6KOhHg
+Feel free to watch my YouTube video if you want to see how I made the project  [How to use the Microsoft Identity Platform with Angular Application](https://www.youtube.com/watch?v=D9fWa6KOhHg "How to use the Microsoft Identity Platform with Angular Application")
 
+# Screenshots
