@@ -12,7 +12,6 @@ This template is based on the official MSAL JavaSscript template: [msal-angular]
 You have to get the **ClientId** and **TenantId** from the App Registration page and update this file: 
 > Angular17-Standalone/src/environments/environment.dev.tsAngular17-Standalone/src/environments/environment.dev.ts
 
-    
    ```json
  msalConfig: {
         auth: {
@@ -21,13 +20,12 @@ You have to get the **ClientId** and **TenantId** from the App Registration page
         }
     }
 ```
-    
+If you don't know where to get the clientId and TenantId, you can watch my YouTube video: [How to use the Microsoft Identity Platform with Angular Application](https://youtu.be/QZnX_KXTpfI "How to use the Microsoft Identity Platform with Angular Application")
 
 ### Install Angular dependencies and run
 - npm install
 - ng start
 
-Feel free to watch my YouTube video if you want to see how I made the project  [How to use the Microsoft Identity Platform with Angular Application](https://youtu.be/QZnX_KXTpfI "How to use the Microsoft Identity Platform with Angular Application")
 
 # Screenshots
 #### Welcome page
