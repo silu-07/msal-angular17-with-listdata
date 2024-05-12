@@ -28,14 +28,9 @@ If you don't know where to get the clientId and TenantId, you can watch my YouTu
 
 
 # Screenshots
-#### Welcome page
-![](https://github.com/ryannninodizon/msal-angular17-with-listdata/blob/main/Screenshots/welcome-pag.JPG)
 
 #### Profile page
 ![](https://github.com/ryannninodizon/msal-angular17-with-listdata/blob/main/Screenshots/profile-page.JPG)
-
-#### List page
-![](https://github.com/ryannninodizon/msal-angular17-with-listdata/blob/main/Screenshots/list-page.JPG)
 
 #### Details page
 ![](https://github.com/ryannninodizon/msal-angular17-with-listdata/blob/main/Screenshots/details-page.JPG)
