@@ -99,6 +99,16 @@
             "availableUnits": 6,
             "wifi": true,
             "laundry": true
+        },
+        {
+            "id": "10",
+            "name": "A1133 Transitional Housing",
+            "city": "Santa Clara",
+            "state": "CA",
+            "photo": "https://picsum.photos/id/159/1200/800",
+            "availableUnits": 0,
+            "wifi": false,
+            "laundry": true
         }
     ]
 }
