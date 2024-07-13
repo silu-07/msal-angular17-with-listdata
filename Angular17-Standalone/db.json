@@ -8,7 +8,7 @@
             "photo": "https://picsum.photos/id/164/1200/800",
             "availableUnits": 4,
             "wifi": true,
-            "laundry": true
+            "laundry": false
         },
         {
             "id": "1",
@@ -27,7 +27,7 @@
             "state": "AK",
             "photo": "https://picsum.photos/id/164/1200/800",
             "availableUnits": 1,
-            "wifi": false,
+            "wifi": true,
             "laundry": false
         },
         {
@@ -38,7 +38,7 @@
             "photo": "https://picsum.photos/id/164/1200/800",
             "availableUnits": 1,
             "wifi": true,
-            "laundry": false
+            "laundry": true
         },
         {
             "id": "4",
@@ -46,7 +46,7 @@
             "city": "Gary",
             "state": "IN",
             "photo": "https://picsum.photos/id/164/1200/800",
-            "availableUnits": 1,
+            "availableUnits": 4,
             "wifi": true,
             "laundry": false
         },
@@ -58,7 +58,7 @@
             "photo": "https://picsum.photos/id/164/1200/800",
             "availableUnits": 2,
             "wifi": true,
-            "laundry": true
+            "laundry": false
         },
         {
             "id": "6",
