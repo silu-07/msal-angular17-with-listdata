@@ -30,7 +30,6 @@ If you don't know where to get the clientId and TenantId, you can watch my YouTu
 I have already used this test project for my AZD template, which you can get it here:
 
 [Azure Serverless App with Angular and MSAL](https://azure.github.io/awesome-azd/?name=Azure+Serverless "Azure Serverless App with Angular and MSAL")
-
 ![](https://github.com/ryannninodizon/msal-angular17-with-listdata/blob/main/Screenshots/ryan-dizon-azd-template.JPG)
 
 # Screenshots
