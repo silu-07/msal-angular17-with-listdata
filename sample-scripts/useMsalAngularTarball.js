@@ -23,6 +23,5 @@ const packageJson = JSON.parse(fs.readFileSync(packageJsonPath, 'utf8'));
 
 // Construct the filename of the .tgz file
 const tgzFilename = `azure-msal-angular-${packageJson.version}.tgz`;
-
 // Install the .tgz file
 execSync(`npm i ${path.join(msalAngularDistPath, tgzFilename)}`, { cwd: angularSamplePath, stdio: 'inherit' });
