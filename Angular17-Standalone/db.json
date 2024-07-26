@@ -50,6 +50,16 @@
             "wifi": true,
             "laundry": false
         },
+       {
+            "id": "11",
+            "name": "Not Warm Beds Housing Support",
+            "city": "Guneau",
+            "state": "AK",
+            "photo": "https://picsum.photos/id/14/1200/800",
+            "availableUnits": 0,
+            "wifi": false,
+            "laundry": false
+        },
         {
             "id": "5",
             "name": "Hopeful Apartment Group",
