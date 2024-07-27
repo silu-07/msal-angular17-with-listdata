@@ -20,6 +20,7 @@ You have to get the **ClientId** and **TenantId** from the App Registration page
         }
     }
 ```
+
 If you don't know where to get the clientId and TenantId, you can watch my YouTube video: [How to use the Microsoft Identity Platform with Angular Application](https://youtu.be/QZnX_KXTpfI "How to use the Microsoft Identity Platform with Angular Application")
 
 ### Install Angular dependencies and run
