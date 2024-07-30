@@ -2,6 +2,7 @@
  * Copyright (c) Microsoft Corporation. All rights reserved.
  * Licensed under the MIT License.
  */
+
 const { execSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
