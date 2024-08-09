@@ -109,6 +109,16 @@
             "availableUnits": 1,
             "wifi": false,
             "laundry": true
+        },
+        {
+            "id": "11",
+            "name": "A1153 Transitional Apartment",
+            "city": "Santa Clara",
+            "state": "CA",
+            "photo": "https://picsum.photos/id/139/1200/800",
+            "availableUnits": 1,
+            "wifi": true,
+            "laundry": true
         }
     ]
 }
